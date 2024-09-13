@@ -39,7 +39,7 @@ export default function Home() {
                         <td>Mark</td>
                         <td>Otto</td>
                         <td>@mdo</td>
-                        <td>0565656766</td>
+                        <td>Hello</td>
                     </tr>
                    
                 </tbody>
