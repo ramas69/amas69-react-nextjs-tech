@@ -15,7 +15,7 @@ export default function Header() {
               <a class="nav-link active" aria-current="page" href="#">Liste des Utilisateurs</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Créer un compte</a>
+              <a class="nav-link" href="newuser">Créer un compte</a>
             </li>
            
           </ul>
